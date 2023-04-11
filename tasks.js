@@ -118,8 +118,7 @@ function addNewItem(item){
 }
 
 addNewItem("Pancake")
-addNewItem("Pizza")
-//Pancake and Pizza is added to list of Burger and Pepsi
+//Pancake is added to list of Burger and Pepsi
 
 
 // -------------------------------------------------------------------------------------------------------------------------------------
